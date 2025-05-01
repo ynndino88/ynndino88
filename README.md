@@ -1,30 +1,25 @@
 # 👋 Hi, I'm Akari Yano!
 
-IT領域で採用に携わって9年。
-採用活動を通じて「会社の魅力を伝えること」を大事にする中で「大切なメンバーのためにいい環境を作る」ためのイベントや社内文化づくりにも全力で取り組むようになりました🚀
-
-💡 採用は、単なる人集めではなく、**「この人と働きたい！」「この会社で働きたい！」と思ってもらうための環境づくり** から始まると考えており、スカウトや面談だけでなく、技術イベントの運営、採用広報、オンボーディング設計まで幅広く関わってきました。
-「会社の魅力を伝える」ためには、まずその魅力をもっと伸ばすこと。そのために、採用担当という枠を超えて、コミュニティをつなぎ、カルチャーを育てることも大事な仕事であると考えます。
-また、**「おもしろい！」と思うことを本気で応援し、巻き込み、文化にしていくこと**が好きです。気づけば、「流れをつくる役割」になることもしばしば。
-
----
+I’ll be in charge of HR and PR🪄
+My English level is "Degawa English" – if you know, you know.
+But let’s chat anyway! Take it easy on me! YOROSHIKU-NE😉🌠
 
 ## 🛠 What I do
-- **エンジニア採用（スカウト、面談、オンボーディング）**
-- **コミュニティ・イベントの企画運営**
-- **採用広報 / ブランディング**
-- **ときにはPodcastのパーソナリティになり、ときにはカンファレンス会場を駆け回る🏃**
+- Engineer recruitment (scouting, interviewing, onboarding)
+- Community event planning and management
+- Recruiting PR / Branding
+- Occasional podcast personality and occasional conference floor romp🏃
 
 ## 📌 My hiring style
-- **「会社のいい部分を伝えたい」ではなく、まずいい部分を増やす**  
-  → そのために社内のカルチャー作りやオンボーディングにも力を入れる
-- **その場限りではなく末長いお付き合いを**  
-  → 組織も人も生き物であり、ご縁はタイミングという考えです
+- Increase the good parts of the company first in order to communicate the good parts of the company 
+ → To achieve this, we also focus on creating a culture within the company and onboarding.
+- We believe in a long-term relationship, not just an ad hoc one. 
+ → We believe that organizations and people are living organisms, and that a relationship is based on timing.
   
 ## 🎙 Activities
-- **技術カンファレンス・ミートアップに出没**
-  - いいエネルギーに満ちている場所が好きです！
-- **採用/組織づくりに関する記事執筆**
+- **appear at technology conferences/meetups**.
+  - I like places that are full of good energy!
+- **採用/組織づくりに関する記事**
   -  [オンボーディングを通じて会社のカルチャーを届ける──ROUTE06の「伴走する」採用](https://note.com/ynndino88/n/na2d1784488ee)  
 - [Podcast「ルートシックスラジオ」](https://open.spotify.com/show/2rzh7uclMvKE5NVkadNGOY)の企画運営
 
@@ -35,9 +30,6 @@ IT領域で採用に携わって9年。
 
 ## 🔗 Links
 -  [X](https://x.com/ynndino88) | [LinkedIn](https://www.linkedin.com/in/akari-yano-15a673150/) | [YOUTRUST](https://youtrust.jp/users/yano)  
-
-何か一つでもおもしろいと思うポイントがあれば、ぜひお話ししましょう！  
-
 
 <!--
 **ynndino88/ynndino88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
